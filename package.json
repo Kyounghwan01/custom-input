@@ -12,6 +12,10 @@
     "react-hook",
     "custom-hook"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kyounghwan01/custom-input"
+  },
   "dependencies": {
     "axios": "^0.20.0",
     "react": "^16.13.1",

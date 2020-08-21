@@ -18,6 +18,9 @@
 // };
 // setData(initName);
 
+// if use input
+// <input name="title" value={data.title} onChange={setData} />
+
 import { useState, useCallback } from "react";
 
 const useInput = (initalValue = null) => {
