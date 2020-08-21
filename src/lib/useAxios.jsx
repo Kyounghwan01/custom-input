@@ -4,10 +4,12 @@ import axios from "axios";
 /**
  * example
  *
- * import useAxios from 'hooks/useAxios';
+ * import {useAxios} from 'hooks/useAxios';
  * const {loading, data, err, refatch} = useAxios({ url: 'https:~~~' })
  *
  *  <button onClick={refatch}>refatch</button>
+ *
+ *  todo: get/post/patch/delete 분기처리
  */
 
 const useAxios = (opts, axiosInstance = axios) => {

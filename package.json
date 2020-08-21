@@ -1,6 +1,6 @@
 {
   "name": "@kyounghwan/custom-hook",
-  "version": "0.0.12",
+  "version": "0.1.1",
   "description": "custom hook",
   "module": "dist/index",
   "main": "dist/index",

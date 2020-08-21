@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 /**
  * example
  *
- * import useTitle from 'hooks/useTitle';
+ * import { useTitle } from 'hooks/useTitle';
  * const updateTitle = useTitle('Loading ...');
  * setTimeout(() => updateTitle('login'), 5000);
  */
